@@ -1,0 +1,11 @@
+
+Webpack is a code bundler.
+
+
+It takes code and transforms it into vanilla ES5 javascript.
+
+It is used under the hood for React.
+
+The src folder is where all our code goes, anything we write goes into the src folder
+
+The dist folder is where all the static assets go, Webpack creates these static assets from our src code
